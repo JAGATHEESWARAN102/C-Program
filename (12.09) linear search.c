@@ -31,3 +31,17 @@ void main()
     else
         printf("Element is not present in the array\n");
 }
+
+
+TEST CASES
+Enter the number of elements 7
+Enter array of elements
+16
+18
+27
+16
+23
+21
+19
+Element Search 23
+Element is present in the array at position 5
